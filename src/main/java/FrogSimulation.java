@@ -21,9 +21,7 @@ public class FrogSimulation
 			if(position>=goalDistance){
 				return true;
 			}
-			else if(position<goalDistance){
-				return false;
-			}
+			
 		}
 		return false;
 
