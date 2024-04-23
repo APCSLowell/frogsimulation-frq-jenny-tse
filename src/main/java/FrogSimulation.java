@@ -39,7 +39,7 @@ public class FrogSimulation
 		return (double)successes/num;
 
 	}
-	}
+	
 	
 	
 	//ignore the code below this line
